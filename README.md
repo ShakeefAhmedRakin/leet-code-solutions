@@ -15,7 +15,7 @@ Welcome to my LeetCode repository! This is where I track my problem-solving jour
 **Example Structure:**
 
 ```
-/neetcode
+/NeetCode
 ├── Arrays & Hashing
 │   ├── contains_duplicate.js
 │   ├── valid_anagram.js
